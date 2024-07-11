@@ -31,4 +31,4 @@
 
 ## Авторы
 - **Серёжа Кудинов** - [sokdnv](https://github.com/sokdnv)
-- **Серёжа Чернышов** - [#to_be_added]()
+- **Серёжа Чернышов** - [ChernyshovSS](https://github.com/ChernyshovSS)

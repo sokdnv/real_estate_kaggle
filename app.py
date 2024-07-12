@@ -39,4 +39,3 @@ with st.sidebar:
         })
 
         st.download_button(label='Забирай ответы', data=result_df.to_csv(index=False), file_name='submission.csv')
-

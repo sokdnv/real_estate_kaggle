@@ -4,6 +4,7 @@ import pandas as pd
 import sklearn
 import numpy as np
 
+from catboost import CatBoostRegressor
 from my_module import MyTransformer, GroupMedianImputer, SomeCustomShit
 
 sklearn.set_config(transform_output="pandas")

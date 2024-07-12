@@ -1,5 +1,9 @@
 category_encoders==2.6.3
 joblib==1.4.0
-pandas==2.2.2
+pandas~=2.2.1
 scikit_learn==1.4.2
 streamlit==1.35.0
+
+scikit-learn~=1.4.2
+numpy~=1.26.4
+catboost~=1.2.3
